@@ -1,0 +1,1 @@
+mvn package && java -jar target/rest_cache_demo-0.0.1-SNAPSHOT.jar
